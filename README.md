@@ -4,6 +4,7 @@ Problem Statement 3:-
 ReWear – Community Clothing Exchange
 
 Team Name - WeWear
+
 Team Members Details
 1. Yashvi Shah -      yashveeyes@gmail.com
 2. Rishi Shah -       Shah.RisheeV@gmail.com
